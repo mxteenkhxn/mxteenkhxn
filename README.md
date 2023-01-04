@@ -3,14 +3,14 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
 
 <h2>🧾 Certifications</h2>
 
-- [Practical Ethical Hacking](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [GRC Analyst Master Class](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Practical Ethical Hacking]()
+- [GRC Analyst Master Class]()
 
 <h2> 🤳 Connect with me:</h2>
 
