@@ -2,10 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]()
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+
 
 <h2>🧾 Certifications</h2>
 
