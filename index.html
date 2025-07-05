@@ -1254,7 +1254,10 @@
         
         // Terminal typing effect
         const terminalLines = [
-            { command: "nmap -sV -O target.com", response: "Discovered open ports and services with version detection" },
+            { command: "cat ~/skills/arsenal.txt", response: "Offensive Ops: Red Teaming, Exploit Dev, C2 Frameworks"<br>
+                "Defensive Ops: Threat Hunting, SIEM Tuning, Detection Engineering"<br>
+                "Cloud: AWS Threat Modeling, IAM Exploits, Serverless Attacks"<br>
+                "Mobile: Static/Dynamic Analysis (APK/IPA), Frida, Objection, MobSF"<br>},
             { command: "checksec --file=/bin/ls", response: "Analyzed binary protections: NX enabled, PIE enabled, no canary found" },
             { command: "sqlmap -u 'https://test.com?id=1' --risk=3 --level=5", response: "Identified SQL injection vulnerability in GET parameter 'id'" },
             { command: "john --wordlist=rockyou.txt hashfile.txt", response: "Successfully cracked 65% of password hashes" }
