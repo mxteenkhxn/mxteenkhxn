@@ -841,7 +841,7 @@
                             <span class="terminal-prompt">$</span>
                             <span class="terminal-command">whoami</span>
                         </div>
-                        <div class="terminal-response">Security Engineer | Purple Teamer | Security Researcher</div>
+                        <div class="terminal-response">Security Engineer | 0xroot | Security Researcher</div>
                         
                         <div class="terminal-line">
                             <span class="terminal-prompt">$</span>
@@ -1254,10 +1254,10 @@
         
         // Terminal typing effect
         const terminalLines = [
-            { command: "cat ~/skills/arsenal.txt", response: "Offensive Ops: Red Teaming, Exploit Dev, C2 Frameworks" },
+            { command: "cat ~/skills/arsenal.txt", response: "Offensive Ops: Red Teaming, Exploit Dev, C2 Frameworks; Defensive Ops: Threat Hunting, SIEM Tuning, Detection Engineering; Mobile: Static/Dynamic Analysis (APK/IPA), Frida, Objection, MobSF; Cloud: AWS Threat Modeling, IAM Exploits, Serverless Attacks" },
             { command: "checksec --file=/bin/ls", response: "Analyzed binary protections: NX enabled, PIE enabled, no canary found" },
             { command: "sqlmap -u 'https://test.com?id=1' --risk=3 --level=5", response: "Identified SQL injection vulnerability in GET parameter 'id'" },
-            { command: "john --wordlist=rockyou.txt hashfile.txt", response: "Successfully cracked 65% of password hashes" }
+            { command: "cat /etc/motd", response: "Mission: Build, break, and defend the edge of digital warfare. Leave no log behind." }
         ];
         
         const terminalContent = document.querySelector('.terminal-content');
