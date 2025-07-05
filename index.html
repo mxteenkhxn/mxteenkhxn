@@ -1257,7 +1257,8 @@
             { command: "cat ~/skills/arsenal.txt", response: "Offensive Ops: Red Teaming, Exploit Dev, C2 Frameworks; Defensive Ops: Threat Hunting, SIEM Tuning, Detection Engineering; Mobile: Static/Dynamic Analysis (APK/IPA), Frida, Objection, MobSF; Cloud: AWS Threat Modeling, IAM Exploits, Serverless Attacks" },
             { command: "checksec --file=/bin/ls", response: "Analyzed binary protections: NX enabled, PIE enabled, no canary found" },
             { command: "sqlmap -u 'https://test.com?id=1' --risk=3 --level=5", response: "Identified SQL injection vulnerability in GET parameter 'id'" },
-            { command: "cat /etc/motd", response: "Mission: Build, break, and defend the edge of digital warfare. Leave no log behind." }
+            { command: "cat /etc/motd", response: "Mission: Build, break, and defend the edge of digital warfare. Leave no log behind." },
+            { command: "echo Career Goal: Empower secure development and resilient infrastructures through offensive mindset and defensive rigor. > goal.txt" },
         ];
         
         const terminalContent = document.querySelector('.terminal-content');
